@@ -1,0 +1,7 @@
+.venv
+.DS_Store
+
+data/*
+!data/.gitkeep
+
+Project1_Rating_Prediction_Spring2025.pdf
